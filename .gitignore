@@ -2,3 +2,8 @@
 *.qpf
 *.bak
 VGA_PORTION/db
+VGA_PORTION/output_files
+qmegawiz_errors_log.txt
+*.cnx
+*.cnxerr
+*.qip
