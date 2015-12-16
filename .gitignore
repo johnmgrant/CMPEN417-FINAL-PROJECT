@@ -1,1 +1,4 @@
-
+*.qsf
+*.qpf
+*.bak
+VGA_PORTION/db
